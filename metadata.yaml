@@ -1,0 +1,29 @@
+_repo: Kertomuksia-elavista-ja-kuolleista_72048
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Klulas, Anna
+    gutenberg_agent_id: '56519'
+    url: http://www.gutenberg.org/2009/agents/56519
+creator:
+  author:
+    agent_name: Reuter, Jonatan
+    gutenberg_agent_id: '56518'
+    url: http://www.gutenberg.org/2009/agents/56518
+description: ''
+gutenberg_issued: '2023-11-06'
+identifiers:
+  gutenberg: '72048'
+language: fi
+pgterms:marc905: 20231009074221reuter
+pgterms:marc906: '1902'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bBoman & Karlswson, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kertomuksia elävistä ja kuolleista
+url: http://www.gutenberg.org/ebooks/72048
