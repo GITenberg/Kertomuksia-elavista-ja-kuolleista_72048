@@ -5,12 +5,17 @@ contributor:
     agent_name: Klulas, Anna
     gutenberg_agent_id: '56519'
     url: http://www.gutenberg.org/2009/agents/56519
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reuter, Jonatan
     gutenberg_agent_id: '56518'
     url: http://www.gutenberg.org/2009/agents/56518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72048#Kertomuksia-elavista-ja-kuolleista
 gutenberg_issued: '2023-11-06'
 identifiers:
   gutenberg: '72048'
